@@ -14,3 +14,4 @@ filelock
 networkx
 jinja2
 fsspec
+flake8-pyi==20.5.0
